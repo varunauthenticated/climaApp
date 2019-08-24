@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\location_permissions\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\2141876e701262fb22f171b4daf92b28\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\location_permissions\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\2141876e701262fb22f171b4daf92b28\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\location_permissions\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\2141876e701262fb22f171b4daf92b28\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\location_permissions\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\2141876e701262fb22f171b4daf92b28\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

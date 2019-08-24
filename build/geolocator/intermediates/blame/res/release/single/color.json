@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\84ac2bbb312a9133753ea94afc1a0598\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\84ac2bbb312a9133753ea94afc1a0598\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\84ac2bbb312a9133753ea94afc1a0598\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

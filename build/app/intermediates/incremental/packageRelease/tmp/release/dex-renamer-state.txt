@@ -1,0 +1,4 @@
+#Thu Jul 25 22:43:36 IST 2019
+base.0=D\:\\flutterapp\\Clima-Flutter\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

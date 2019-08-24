@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\84ac2bbb312a9133753ea94afc1a0598\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\84ac2bbb312a9133753ea94afc1a0598\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\84ac2bbb312a9133753ea94afc1a0598\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\84ac2bbb312a9133753ea94afc1a0598\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.2.aar\\35a35090d49d9ddc09fb3fbf6971f198\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\84ac2bbb312a9133753ea94afc1a0598\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.2.aar\\35a35090d49d9ddc09fb3fbf6971f198\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.2.aar\\35a35090d49d9ddc09fb3fbf6971f198\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\84ac2bbb312a9133753ea94afc1a0598\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.2.aar\\35a35090d49d9ddc09fb3fbf6971f198\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\flutterapp\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\varun\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.2.aar\\35a35090d49d9ddc09fb3fbf6971f198\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]
